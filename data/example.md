@@ -140,9 +140,9 @@ Fargate实好，但是[其价格](https://aws.amazon.com/fargate/pricing/)几乎
 
 # 效果预览
 
-![编辑邮件，粘贴到邮箱效果预览](https://raw.githubusercontent.com/guzhongren/geekmd/master/docs/assets/preview.jgp)
+![编辑邮件，粘贴到邮箱效果预览](https://raw.githubusercontent.com/guzhongren/geekmd/master/docs/assets/preview.jgp?raw=true)
 
-![OutLook邮箱收到邮件的效果预览](https://raw.githubusercontent.com/guzhongren/geekmd/master/docs/assets/preview2.jgp)
+![OutLook邮箱收到邮件的效果预览](https://raw.githubusercontent.com/guzhongren/geekmd/master/docs/assets/preview2.jgp?raw=true)
 
-![Mac Mail收到邮件的效果预览](https://raw.githubusercontent.com/guzhongren/geekmd/master/docs/assets/preview3.jgp)
+![Mac Mail收到邮件的效果预览](https://raw.githubusercontent.com/guzhongren/geekmd/master/docs/assets/preview3.jgp?raw=true)
 
