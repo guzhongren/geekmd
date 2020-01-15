@@ -26,4 +26,6 @@ jobs:
         yarn build
     - name: deploy
       run: |
+        git config user.email "guzhongren@live.cn"
+        git config user.name "guzhongren"
         yarn release:web
