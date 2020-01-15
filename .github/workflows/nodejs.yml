@@ -10,12 +10,7 @@ jobs:
     strategy:
       matrix:
         node-version: [12.x]
-
     steps:
-    - name: env
-      run:|
-        git config user.email guzhongren@live.cn
-        git config user.name "guzhongren"
     - uses: actions/checkout@v1
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v1
@@ -34,3 +29,6 @@ jobs:
         ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         PUBLISH_BRANCH: gh-pages
         PUBLISH_DIR: ./dist
+      with:
+        username: "guzhongren"
+        useremail: "guzhongren@live.cn"
