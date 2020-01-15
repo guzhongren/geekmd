@@ -26,4 +26,4 @@ jobs:
         yarn build
     - name: deploy
       run: |
-        yarn
+        yarn release:web
