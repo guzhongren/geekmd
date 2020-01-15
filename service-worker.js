@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/geekmd/precache-manifest.24e7ae00adef5684d86e2fd641276737.js"
+  "/geekmd/precache-manifest.e7c4a2846fe079f2001512db71dc795d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "geedit"});
