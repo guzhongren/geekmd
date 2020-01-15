@@ -5,14 +5,9 @@
 
 >妈妈再也不用担心我的邮件排版了!
 
-- 开源地址：https://github.com/geekeren/geekmd
+- 开源地址：https://github.com/guzhongren/geekmd
+- 源地址: https://github.com/geekeren/geekmd
 
-
-![加我微信，关注"极客MD"](https://wangbaiyuan.cn/wp-content/uploads/2018/08/qrcode_for_gh_5f4c204be810_344.jpg) | ![加我微信，关注"极客MD"](https://wangbaiyuan.cn/wp-content/uploads/image/wechat_zanshang.jpeg)
-:--: | :--:
-加我微信，关注"极客MD" | 微信打赏
-
------------
 
 # 下面是示例文档：
 
@@ -145,9 +140,9 @@ Fargate实好，但是[其价格](https://aws.amazon.com/fargate/pricing/)几乎
 
 # 效果预览
 
-![编辑邮件，粘贴到邮箱效果预览](https://raw.githubusercontent.com/geekeren/geekmd/master/docs/assets/preview.png)
+![编辑邮件，粘贴到邮箱效果预览](https://raw.githubusercontent.com/guzhongren/geekmd/master/docs/assets/preview.jgp)
 
-![QQ邮箱收到邮件的效果预览](https://raw.githubusercontent.com/geekeren/geekmd/master/docs/assets/preview2.jpeg)
+![OutLook邮箱收到邮件的效果预览](https://raw.githubusercontent.com/guzhongren/geekmd/master/docs/assets/preview2.jgp)
 
-![Mac Mail收到邮件的效果预览](https://raw.githubusercontent.com/geekeren/geekmd/master/docs/assets/preview3.jpeg)
+![Mac Mail收到邮件的效果预览](https://raw.githubusercontent.com/guzhongren/geekmd/master/docs/assets/preview3.jgp)
 
