@@ -113,7 +113,7 @@ export default class Markdown extends Vue {
       }
       const content = localStorage.getItem('md.content');
       if (!content) {
-        this.$http.get('/data/example.md')
+        this.$http.get(`${window.location.host === 'localhost' ? '/geekmd' : ''}/data/example.md`)
           .then((data) => {
             this.rawInputMd = data.body;
           });
