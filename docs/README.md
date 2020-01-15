@@ -19,14 +19,8 @@
 
 ## Preview
 
-![编辑邮件，粘贴到邮箱效果预览](./assets/preview.png)
+![编辑邮件，粘贴到邮箱效果预览](./assets/preview.jpg)
 
-![QQ邮箱收到邮件的效果预览](./assets/preview2.jpeg)
+![QQ邮箱收到邮件的效果预览](./assets/preview2.jpg)
 
-![Mac Mail收到邮件的效果预览](./assets/preview3.jpeg)
-
-
-## Follow Me
-![加我微信，关注"极客MD"](https://wangbaiyuan.cn/wp-content/uploads/2018/08/qrcode_for_gh_5f4c204be810_344.jpg)
-
-
+![Mac Mail收到邮件的效果预览](./assets/preview3.jpg)
