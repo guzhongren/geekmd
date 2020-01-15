@@ -52,7 +52,5 @@ markdownRender.use(emoji)
     figure_close: 'div',
   })
   .use(toc);
-markdownRender.renderer.rules.table_open = function () {
-  return '<table class="table">';
-};
+markdownRender.renderer.rules.table_open = () => '<table class="table">';
 export default markdownRender;

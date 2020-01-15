@@ -201,10 +201,12 @@ export default class Markdown extends Vue {
     }
 
     static onCopy() {
+      // eslint-disable-next-line no-alert
       alert('复制成功!');
     }
 
     static onError() {
+      // eslint-disable-next-line no-alert
       alert('复制失败');
     }
   }
