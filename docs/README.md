@@ -19,8 +19,8 @@
 
 ## Preview
 
-![编辑邮件，粘贴到邮箱效果预览](./assets/preview.jpg)
+![编辑邮件，粘贴到邮箱效果预览](https://user-images.githubusercontent.com/8743692/72417086-1806e480-37b3-11ea-8461-eb0c8fd460f0.jpg)
 
-![QQ邮箱收到邮件的效果预览](./assets/preview2.jpg)
+![OutLook邮箱收到邮件的效果预览](https://user-images.githubusercontent.com/8743692/72417091-1a693e80-37b3-11ea-9858-dbf488e1afa1.jpg)
 
-![Mac Mail收到邮件的效果预览](./assets/preview3.jpg)
+![Mac Mail收到邮件的效果预览](https://user-images.githubusercontent.com/8743692/72417093-1ccb9880-37b3-11ea-9cd9-fffaebff0107.jpg)
